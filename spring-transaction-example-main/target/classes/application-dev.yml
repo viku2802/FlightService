@@ -1,0 +1,4 @@
+spring:
+  message:hello world
+server:
+  port:8087
